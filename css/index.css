@@ -97,9 +97,9 @@ button {
 }
 
 .logo img {
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
+     width: 55px !important;
+        height: auto !important;
+        max-width: 55px !important;
 }
 
 .nav-menu {
